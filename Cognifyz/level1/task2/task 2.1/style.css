@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: lightblue;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ;
+}
+h2{
+    text-align: center;
+
+}
